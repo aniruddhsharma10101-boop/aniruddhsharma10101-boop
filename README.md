@@ -14,9 +14,6 @@ https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=w
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
-🚀 Frameworks & Libraries
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-
 🗄️ Databases & Cloud
 https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
@@ -44,3 +41,6 @@ https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&log
 https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 
 </div>
+https://visitcount.itsvg.in/api?id=aniruddhsharma10101-boop&icon=0&color=0
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
