@@ -1,4 +1,6 @@
 💫 Aniruddh Sharma - Full Stack Developer
+
+
 👨‍💻 Passionate about crafting seamless web experiences with a focus on performance and user engagement. I thrive on turning complex problems into simple, beautiful solutions.
 
 🌱 Currently exploring AI/ML integration in web applications and cloud-native architectures
