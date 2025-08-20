@@ -1,4 +1,5 @@
 # 💫 About Me:
+# Aniruddh Sharma
 👨‍💻 I'm currently working on building scalable backend services with Python and FastAPI, and exploring the intersection of AI and web development.<br><br>🤝 I'm looking to collaborate on open-source projects, especially those related to developer tools, API development, or educational tech.<br><br>🆘 I'm looking for help with mastering advanced system design principles and best practices for DevOps/CI-CD pipelines.<br><br>🌱 I'm currently learning Go (Golang) and deepening my understanding of distributed systems and Kubernetes.<br><br>💬 Ask me about Python, REST APIs, database design, or my journey into tech!<br><br>⚡ Fun fact: I once tried to automate my coffee maker with a Raspberry Pi. It worked, but I still had to get up to put a mug under it.
 
 
